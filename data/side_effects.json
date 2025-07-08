@@ -1,0 +1,557 @@
+{
+  "Amlodipine": {
+    "dosage_mg": [
+      10,
+      200,
+      250
+    ],
+    "common_side_effects": [
+      "Heartburn",
+      "Diarrhea",
+      "Headache"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction",
+      "Gastrointestinal bleeding"
+    ],
+    "interactions_with": [
+      "Levothyroxine",
+      "Loratadine",
+      "Losartan"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      3,
+      14,
+      7
+    ]
+  },
+  "Amoxicillin": {
+    "dosage_mg": [
+      20,
+      40,
+      75
+    ],
+    "common_side_effects": [
+      "Stomach upset",
+      "Heartburn",
+      "Dizziness"
+    ],
+    "serious_side_effects": [
+      "Cardiac arrhythmia",
+      "Severe allergic reaction"
+    ],
+    "interactions_with": [
+      "Metformin",
+      "Insulin",
+      "Aspirin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      5,
+      10,
+      3
+    ]
+  },
+  "Aspirin": {
+    "dosage_mg": [
+      20,
+      500
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Skin rash",
+      "Fatigue"
+    ],
+    "serious_side_effects": [
+      "Cardiac arrhythmia",
+      "Anaphylaxis"
+    ],
+    "interactions_with": [
+      "Cetirizine",
+      "Montelukast",
+      "Amlodipine"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      10,
+      14,
+      7
+    ]
+  },
+  "Atorvastatin": {
+    "dosage_mg": [
+      40,
+      75,
+      100
+    ],
+    "common_side_effects": [
+      "Stomach upset",
+      "Constipation",
+      "Headache"
+    ],
+    "serious_side_effects": [
+      "Liver damage",
+      "Anaphylaxis"
+    ],
+    "interactions_with": [
+      "Salbutamol",
+      "Metformin",
+      "Omeprazole"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      7,
+      5,
+      14
+    ]
+  },
+  "Azithromycin": {
+    "dosage_mg": [
+      100
+    ],
+    "common_side_effects": [
+      "Heartburn",
+      "Diarrhea",
+      "Headache"
+    ],
+    "serious_side_effects": [
+      "Liver damage",
+      "Severe allergic reaction"
+    ],
+    "interactions_with": [
+      "Levothyroxine",
+      "Ciprofloxacin",
+      "Prednisone"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      10,
+      14,
+      5
+    ]
+  },
+  "Cetirizine": {
+    "dosage_mg": [
+      5,
+      10,
+      75,
+      100,
+      500
+    ],
+    "common_side_effects": [
+      "Stomach upset",
+      "Fatigue",
+      "Headache"
+    ],
+    "serious_side_effects": [
+      "Gastrointestinal bleeding",
+      "Liver damage"
+    ],
+    "interactions_with": [
+      "Salbutamol",
+      "Ciprofloxacin",
+      "Montelukast"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      3,
+      14,
+      7
+    ]
+  },
+  "Ciprofloxacin": {
+    "dosage_mg": [
+      75,
+      100,
+      500
+    ],
+    "common_side_effects": [
+      "Nausea",
+      "Fatigue",
+      "Skin rash"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction",
+      "Anaphylaxis"
+    ],
+    "interactions_with": [
+      "Fluconazole",
+      "Levothyroxine",
+      "Insulin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      10,
+      7,
+      5
+    ]
+  },
+  "Fluconazole": {
+    "dosage_mg": [
+      5,
+      75,
+      500
+    ],
+    "common_side_effects": [
+      "Stomach upset",
+      "Nausea",
+      "Dizziness"
+    ],
+    "serious_side_effects": [
+      "Liver damage",
+      "Gastrointestinal bleeding"
+    ],
+    "interactions_with": [
+      "Paracetamol",
+      "Aspirin",
+      "Insulin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      10,
+      7,
+      14
+    ]
+  },
+  "Ibuprofen": {
+    "dosage_mg": [
+      10,
+      20,
+      40,
+      250,
+      500
+    ],
+    "common_side_effects": [
+      "Dry mouth",
+      "Skin rash",
+      "Heartburn"
+    ],
+    "serious_side_effects": [
+      "Anaphylaxis",
+      "Liver damage"
+    ],
+    "interactions_with": [
+      "Cetirizine",
+      "Salbutamol",
+      "Metformin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      10,
+      3,
+      7
+    ]
+  },
+  "Insulin": {
+    "dosage_mg": [
+      10,
+      20,
+      250
+    ],
+    "common_side_effects": [
+      "Skin rash",
+      "Dry mouth",
+      "Nausea"
+    ],
+    "serious_side_effects": [
+      "Cardiac arrhythmia",
+      "Anaphylaxis"
+    ],
+    "interactions_with": [
+      "Losartan",
+      "Amlodipine",
+      "Metformin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      3,
+      7,
+      10
+    ]
+  },
+  "Levothyroxine": {
+    "dosage_mg": [
+      10,
+      20,
+      40,
+      75,
+      100,
+      250
+    ],
+    "common_side_effects": [
+      "Diarrhea",
+      "Stomach upset",
+      "Fatigue"
+    ],
+    "serious_side_effects": [
+      "Gastrointestinal bleeding",
+      "Liver damage"
+    ],
+    "interactions_with": [
+      "Aspirin",
+      "Metronidazole",
+      "Fluconazole"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      5,
+      3,
+      10
+    ]
+  },
+  "Loratadine": {
+    "dosage_mg": [
+      5,
+      100,
+      200
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Nausea",
+      "Heartburn"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction",
+      "Anaphylaxis"
+    ],
+    "interactions_with": [
+      "Montelukast",
+      "Metformin",
+      "Fluconazole"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      14,
+      7,
+      5
+    ]
+  },
+  "Losartan": {
+    "dosage_mg": [
+      10,
+      20,
+      40,
+      100,
+      200,
+      250
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Dizziness",
+      "Diarrhea"
+    ],
+    "serious_side_effects": [
+      "Gastrointestinal bleeding",
+      "Anaphylaxis"
+    ],
+    "interactions_with": [
+      "Metformin",
+      "Cetirizine",
+      "Loratadine"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      14,
+      5,
+      3
+    ]
+  },
+  "Metformin": {
+    "dosage_mg": [
+      20,
+      75,
+      100,
+      250
+    ],
+    "common_side_effects": [
+      "Headache",
+      "Nausea",
+      "Heartburn"
+    ],
+    "serious_side_effects": [
+      "Kidney dysfunction",
+      "Cardiac arrhythmia"
+    ],
+    "interactions_with": [
+      "Paracetamol",
+      "Insulin",
+      "Amoxicillin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      5,
+      10,
+      14
+    ]
+  },
+  "Metronidazole": {
+    "dosage_mg": [
+      10,
+      20,
+      75
+    ],
+    "common_side_effects": [
+      "Dry mouth",
+      "Headache",
+      "Dizziness"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction",
+      "Kidney dysfunction"
+    ],
+    "interactions_with": [
+      "Amlodipine",
+      "Omeprazole",
+      "Montelukast"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      14,
+      5,
+      3
+    ]
+  },
+  "Montelukast": {
+    "dosage_mg": [
+      5,
+      10,
+      40,
+      75,
+      500
+    ],
+    "common_side_effects": [
+      "Diarrhea",
+      "Nausea",
+      "Fatigue"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction",
+      "Cardiac arrhythmia"
+    ],
+    "interactions_with": [
+      "Levothyroxine",
+      "Fluconazole",
+      "Atorvastatin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      5,
+      3,
+      10
+    ]
+  },
+  "Omeprazole": {
+    "dosage_mg": [
+      10,
+      20,
+      75,
+      100
+    ],
+    "common_side_effects": [
+      "Fatigue",
+      "Dry mouth",
+      "Constipation"
+    ],
+    "serious_side_effects": [
+      "Anaphylaxis",
+      "Gastrointestinal bleeding"
+    ],
+    "interactions_with": [
+      "Azithromycin",
+      "Montelukast",
+      "Metformin"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      14,
+      10,
+      7
+    ]
+  },
+  "Paracetamol": {
+    "dosage_mg": [
+      5,
+      40,
+      75,
+      100
+    ],
+    "common_side_effects": [
+      "Dizziness",
+      "Stomach upset",
+      "Skin rash"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction",
+      "Liver damage"
+    ],
+    "interactions_with": [
+      "Amlodipine",
+      "Losartan",
+      "Salbutamol"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      10,
+      5,
+      7
+    ]
+  },
+  "Prednisone": {
+    "dosage_mg": [
+      10,
+      100,
+      500
+    ],
+    "common_side_effects": [
+      "Diarrhea",
+      "Stomach upset",
+      "Fatigue"
+    ],
+    "serious_side_effects": [
+      "Anaphylaxis",
+      "Gastrointestinal bleeding"
+    ],
+    "interactions_with": [
+      "Metronidazole",
+      "Paracetamol",
+      "Cetirizine"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      7,
+      10,
+      5
+    ]
+  },
+  "Salbutamol": {
+    "dosage_mg": [
+      20,
+      75,
+      100,
+      200,
+      250,
+      500
+    ],
+    "common_side_effects": [
+      "Constipation",
+      "Headache",
+      "Heartburn"
+    ],
+    "serious_side_effects": [
+      "Severe allergic reaction",
+      "Cardiac arrhythmia"
+    ],
+    "interactions_with": [
+      "Amoxicillin",
+      "Amlodipine",
+      "Paracetamol"
+    ],
+    "warnings": "Consult your doctor before use. Follow prescribed dosage and duration.",
+    "recommended_duration_days": [
+      3,
+      5,
+      7
+    ]
+  }
+}
