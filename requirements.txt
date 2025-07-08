@@ -1,0 +1,7 @@
+streamlit
+pillow
+pytesseract
+spacy
+pandas
+APScheduler
+requests
